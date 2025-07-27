@@ -1,0 +1,20 @@
+
+1. csv file
+
+https://docs.google.com/spreadsheets/d/1dggbZF6HLXPuxp5thJyehW557_4LikOQgF0LLRoyAbU/edit?usp=sharing
+
+
+2. Data Generation
+
+https://colab.research.google.com/drive/1gyVYP7xPovJ0WTh9oHwrwt8BZQTvQfG9?usp=sharing
+
+
+3. Training
+
+https://colab.research.google.com/drive/1FkEybmkZ0-AN5Zedite_Q7tZNyLi8CFe?usp=sharing
+
+
+4. Testing
+
+https://colab.research.google.com/drive/1cj7Lg-7kOOoioImjhu34GSyf48sOBGJB?usp=sharing
+
